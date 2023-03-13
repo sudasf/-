@@ -12,4 +12,6 @@
 ## 智慧零售前端成果视频展示地址
 [https://sf-test1.oss-cn-hangzhou.aliyuncs.com/videos/%E6%99%BA%E6%85%A7%E9%9B%B6%E5%94%AE.mp4](https://sf-test1.oss-cn-hangzhou.aliyuncs.com/videos/%E6%99%BA%E6%85%A7%E9%9B%B6%E5%94%AE.mp4)
 
+###由于视频被微信压缩过，手机打开视频播放会更清晰
+
 
